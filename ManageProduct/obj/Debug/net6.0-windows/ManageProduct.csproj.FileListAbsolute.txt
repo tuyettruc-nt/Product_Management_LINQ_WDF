@@ -1,0 +1,17 @@
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\bin\Debug\net6.0-windows\ManageProduct.exe
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\bin\Debug\net6.0-windows\ManageProduct.deps.json
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\bin\Debug\net6.0-windows\ManageProduct.runtimeconfig.json
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\bin\Debug\net6.0-windows\ManageProduct.dll
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\bin\Debug\net6.0-windows\ManageProduct.pdb
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\ManageProduct.csproj.AssemblyReference.cache
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\ManageProduct.Form1.resources
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\ManageProduct.csproj.GenerateResource.cache
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\ManageProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\ManageProduct.AssemblyInfoInputs.cache
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\ManageProduct.AssemblyInfo.cs
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\ManageProduct.csproj.CoreCompileInputs.cache
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\ManageProduct.dll
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\refint\ManageProduct.dll
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\ManageProduct.pdb
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\ManageProduct.genruntimeconfig.cache
+D:\SubjectOfFPT\Semester 5\.NET\practice\ManageProduct\ManageProduct\obj\Debug\net6.0-windows\ref\ManageProduct.dll
